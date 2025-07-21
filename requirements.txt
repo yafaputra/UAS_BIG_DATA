@@ -2,10 +2,6 @@ streamlit
 plotly
 pandas
 numpy
-scikit-learn    
+scikit-learn
 matplotlib
 seaborn
-scipy
-tensorflow
-keras
-pytorch
